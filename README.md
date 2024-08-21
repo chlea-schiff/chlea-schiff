@@ -2,9 +2,11 @@
 
 ## 🌟 About Me
 
-Hey there! I'm **Chléa** — a **neuroengineering masters student**.
+Hey there! I'm **Chléa** — a **neuroengineering student**.
 
-- 🦿 **Previously working on**: spinal cord stimulation @ NeuroRestore
+- 🎓 **Future neuroengineer**: MSc in Neuro-X with a focus on Data Science @ EPFL
+- 🦿 **Previously working on**: spinal cord stimulation, spinal cord 3D model reconstruction, and hemodynamics monitoring @ .NeuroRestore
+- 🖼️ **But also:** image segmentation @ TNE Lab
 - 🚀 **Currently Exploring:** in-ear EEG processing @ IDUN Technologies
 
 > Explore my projects and experience [here](#).
